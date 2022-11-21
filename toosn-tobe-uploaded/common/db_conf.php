@@ -9,11 +9,11 @@ error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
 $DBTYPE = "MYSQLI";
 
 //$DBNAME is the name of the database.
-$DBNAME = "toosanhomesdb";
+$DBNAME = "";
 
 //The database server's IP or machine name. "localhost" can be used if the WEB server is on the same machine.
 //$HOST = "localhost";
-$HOST = "mysqlcluster5";
+$HOST = "";
 //The database server' s port number
 $PORT = "";
 
@@ -21,10 +21,10 @@ $PORT = "";
 $SID = "";
 
 // The Username used to access the database
-$USERNAME = "thomesdbuser";
+$USERNAME = "";
 
 //The password used to access the database
-$PASSWORD = "TooHome!4312";
+$PASSWORD = "";
 
 //DIRECTORY PATHS and SPECIAL FILES USED
 
